@@ -1,0 +1,15 @@
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/bin/Debug/net7.0/HomeWork3A
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/bin/Debug/net7.0/HomeWork3A.deps.json
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/bin/Debug/net7.0/HomeWork3A.runtimeconfig.json
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/bin/Debug/net7.0/HomeWork3A.dll
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/bin/Debug/net7.0/HomeWork3A.pdb
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.csproj.AssemblyReference.cache
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.AssemblyInfoInputs.cache
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.AssemblyInfo.cs
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.csproj.CoreCompileInputs.cache
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.dll
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/refint/HomeWork3A.dll
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.pdb
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/HomeWork3A.genruntimeconfig.cache
+/Users/vagazadee/Projects/HomeWork3A/HomeWork3A/obj/Debug/net7.0/ref/HomeWork3A.dll
